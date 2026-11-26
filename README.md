@@ -5,7 +5,7 @@ above the fingertips of one hand and moves, tilts and resizes with it. The liqui
 real gravity, pools on whichever side is down, and sloshes when you move the box. Your other hand can
 reach into the box and stir it.
 
-![Fluid in the hand-held box](hold_fall.png)
+![Fluid in the hand-held box](readme_example.png)
 
 It is built on the Stable Fluids solver from [`../fluid`](../fluid) (48³ grid, raylib, GPU ray
 marching). Hand tracking comes from [MediaPipe Hand Landmarker](https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker),
