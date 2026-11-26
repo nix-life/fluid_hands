@@ -1,0 +1,5 @@
+.venv/
+*.task
+tracker.log
+build.log
+*.exe
